@@ -1,2 +1,3 @@
-# email-validation
-PHP Unit practice for INFO 4300.
+# Email
+
+This is my first commit.
